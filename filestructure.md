@@ -122,7 +122,10 @@ Here are the most common **rooms** (directories) in your Linux house:
 
 ---
 
-# 🧠 Real-Life Example: Setting Up Nginx
+# 🧠 Real-Life Example: Setting Up Nginx(What is Nginx?
+Imagine you have a house (that's your computer or a website), and inside the house, there are rooms (those are your web pages, images, or videos). Now, when someone wants to come to your house and see the rooms (the website), they need a doorman to let them in and show them the right room.
+
+Nginx is like that doorman. It helps people from all over the world come to your website by sending them to the right room (page). When someone types your website’s address into their computer, Nginx takes them to the right place, whether it's a webpage, a picture, or a video.)
 
 ### 1. **Installing Nginx**  
 - Binaries for Nginx are stored in `/usr/bin/`.  
